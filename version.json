@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 2,
-  "latestVersionName": "1.1",
-  "downloadUrl": "https://github.com/packbazaar/packbazaar-updates/releases/download/v1.2/app-release.apk",
-  "releaseNotes": "- Added client search\n- Fixed invoice deletion crash\n- Improved performance"
+  "latestVersionCode": 10,
+  "latestVersionName": "1.6.3",
+  "downloadUrl": "https://github.com/packbazaar/packbazaar-updates/releases/download/v1.6.3/app-release.apk",
+  "releaseNotes": "Automatic app build from source commit 7a9cbf0d3d57326798039b3c37ace39ed2f795e8."
 }
