@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 22,
-  "latestVersionName": "1.6.15",
-  "downloadUrl": "https://github.com/packbazaar/packbazaar-updates/releases/download/v1.6.15/app-release.apk",
-  "releaseNotes": "Automatic app build from source commit 1e6231653ac7467cdf1be43bbf5f4537859f5b03."
+  "latestVersionCode": 23,
+  "latestVersionName": "1.6.16",
+  "downloadUrl": "https://github.com/packbazaar/packbazaar-updates/releases/download/v1.6.16/app-release.apk",
+  "releaseNotes": "Automatic app build from source commit 0a062fb30eee76d3aa2a27f46f04169683e9b7d1."
 }
