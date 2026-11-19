@@ -1,12 +1,12 @@
 {
-  "latestVersionCode": 27,
-  "latestVersionName": "1.6.20",
-  "downloadUrl": "https://github.com/packbazaar/packbazaar-updates/releases/download/v1.6.20/app-release.apk",
+  "latestVersionCode": 28,
+  "latestVersionName": "1.6.21",
+  "downloadUrl": "https://github.com/packbazaar/packbazaar-updates/releases/download/v1.6.21/app-release.apk",
   "downloadUrls": {
-    "x86_64": "https://github.com/packbazaar/packbazaar-updates/releases/download/v1.6.20/app-x86_64-release.apk",
-    "x86": "https://github.com/packbazaar/packbazaar-updates/releases/download/v1.6.20/app-x86-release.apk",
-    "arm64-v8a": "https://github.com/packbazaar/packbazaar-updates/releases/download/v1.6.20/app-arm64-v8a-release.apk",
-    "armeabi-v7a": "https://github.com/packbazaar/packbazaar-updates/releases/download/v1.6.20/app-armeabi-v7a-release.apk"
+    "armeabi-v7a": "https://github.com/packbazaar/packbazaar-updates/releases/download/v1.6.21/app-armeabi-v7a-release.apk",
+    "x86": "https://github.com/packbazaar/packbazaar-updates/releases/download/v1.6.21/app-x86-release.apk",
+    "arm64-v8a": "https://github.com/packbazaar/packbazaar-updates/releases/download/v1.6.21/app-arm64-v8a-release.apk",
+    "x86_64": "https://github.com/packbazaar/packbazaar-updates/releases/download/v1.6.21/app-x86_64-release.apk"
   },
-  "releaseNotes": "Automatic app build from source commit f48906e579ffbb6a27754e7ccfcbfb506c16660b."
+  "releaseNotes": "Automatic app build from source commit f46c83bf6632b11ae3cfa38cadab8e563718da0c."
 }
